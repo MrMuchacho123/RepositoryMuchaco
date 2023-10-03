@@ -1,0 +1,1 @@
+f=open('bolo de cenoura.txt','r')
