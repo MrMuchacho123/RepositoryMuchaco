@@ -1,0 +1,11 @@
+Git Hub
+
+*Comandos
+-git status: indica se tem ou não mudanças no diretório de trabalho (boolean)
+-git add [nome do arquivo] ou git add [.] : adiciona o arquivo do diretório de trabalho no pacote de arquivos do próximo commit
+-git commit [-m] : alteraçãoes que estão na área de preparação (staging). Representa uma versão específica do projeto. Inclui alterações feitas com o git add. 
+-git push/pull [origin master]: push envia os arquivos comitados para o repositório GitHub. Pull traz os arquivos do repositório GitHub para o diretório de trabalho (repositório do computador) 
+-git diff
+-git log/git shortlog
+-git show [hash do commit] (é mostrado no gir log)
+-git 
